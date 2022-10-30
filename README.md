@@ -47,6 +47,8 @@ class Inventory
 
 class Product
 {
+    #Atributos
+    
     barcode=0 #Codigo de barras
     
     brand="" #Marca del poducto
@@ -55,7 +57,7 @@ class Product
     
     expiration_date=0 #Fecha de vencimiento
     
-    #metodos
+    #Métodos
 
     update_barcode() #Actualizar codigo de barras
     
