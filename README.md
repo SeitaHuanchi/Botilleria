@@ -54,6 +54,8 @@ class Product
     net_content=0 #Contenido neto del producto (en gramos si es alimento y ml si es bebestible)
     
     expiration_date=0 #Fecha de vencimiento
+    
+    #metodos
 
     update_barcode() #Actualizar codigo de barras
     
