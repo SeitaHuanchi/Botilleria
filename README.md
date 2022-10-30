@@ -47,6 +47,7 @@ class Inventory
 
 class Product
 {
+    
     #Atributos
     
     barcode=0 #Codigo de barras
