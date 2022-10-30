@@ -5,7 +5,7 @@ class Inventory
     #Atributos
 
     code=0 #Codigo de producto (codigo de barras)
-    description="" #Descripcion de producto(Marca, )
+    description="" #Descripcion de producto(Marca,nombre,tipo[cerveza, vino, destilado,etc.] )
     stock=0 #Cantidad de producto en tienda
     price_sell=0 #Precio de venta (precio al cual se vende)
     price_buy=0 #Precio de compra (precio al cual se compra)
